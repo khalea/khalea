@@ -1,22 +1,27 @@
 ![Dots](dots.png)
 
+# 🎈 Khalea is looking for new challenges.  
 
-#### Actively:
 
-→ Finishing my last class before graduating (Data Structures & Algorithms)
 
-→ Looking for VC, Software Engineering, and/or Startup opportunities for Fall 2020
+#### What Am I Up To?
 
-→ Working on a case study for Grant Thornton (Environmental, Social, Governance Implications on Healthcare Ops)
+→ 📚 Finishing my last class before graduating (Data Structures & Algorithms)
+
+→ 🧠 Brainstorming projects to work on this Fall (Much to come!)
+
+→ 🖥 Looking for VC, Software Engineering, and/or Startup opportunities for Fall 2020
+
+→ 📈 Working on a case study for Grant Thornton (Environmental, Social, Governance Implications on Healthcare Ops)
 
 
 #### About
 
-→ Graduating B.S. Informatics with CS major. Wrapping up 
+→ 🎓 B.S. Informatics with Computer Science at IU Bloomington 
 
-→ Professional interests include software engineering, network science, fintech, democratization, architectural design & urban innovation. 
+→ 🏙 Professional interests include software engineering, network science, fintech, democratization, architectural design & urban innovation. 
 
-→ Leisure? Mostly movies, video games, and skateboarding these days.
+→ 🛹 Hobbies? Mostly movies, video games, and skateboarding these days. When my time is less restricted I play guitar, piano, kayak, and hike.
 
 
 <!--
