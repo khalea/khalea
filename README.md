@@ -3,12 +3,11 @@
 # 🎈 Khalea is looking for new challenges.  
 
 
-
 #### What Am I Up To?
 
 → 📚 Finishing my last class before graduating (Data Structures & Algorithms)
 
-→ 🧠 Brainstorming projects to work on this Fall (Much to come!)
+→ 🧠 Brainstorming projects to work on this Fall 
 
 → 🖥 Looking for VC, Software Engineering, and/or Startup opportunities for Fall 2020
 
@@ -22,7 +21,6 @@
 → 🏙 Professional interests include software engineering, network science, fintech, democratization, architectural design & urban innovation. 
 
 → 🛹 Hobbies? Mostly movies, video games, and skateboarding these days. When my time is less restricted I play guitar, piano, kayak, and hike.
-
 
 <!--
 **khalea/khalea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
