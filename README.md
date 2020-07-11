@@ -1,4 +1,4 @@
-![Dots](dots.png)
+![Dots](/dots.png)
 
 # 🎈  Khalea is looking for new challenges.  
 
