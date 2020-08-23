@@ -3,7 +3,7 @@
 
 #### What Am I Up To?
 
-- 🖥 Working as a Software Engineering Intern @ [Virgin Pulse](www.virginpulse.com)
+- 🖥 Working as a Software Engineering Intern @ [Virgin Pulse](https://www.virginpulse.com)
 
 - 📈 Recently won 3rd place in the Grant Thornton GT-IDEA case competition (Environmental, Social, Governance Implications on Healthcare Ops)
 
