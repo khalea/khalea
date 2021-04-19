@@ -3,9 +3,9 @@
 
 #### What Am I Up To?
 
-- 🖥 Working as a Software Engineering Intern @ [Virgin Pulse](https://www.virginpulse.com)
-
-- 📈 Recently won 3rd place in the Grant Thornton GT-IDEA case competition (Environmental, Social, Governance Implications on Healthcare Ops)
+- 🖥 Working as a Data Engineer in beautiful San Francisco
+- ✏ Writing developer tutorials (open for work!)
+- 
 
 
 #### About
@@ -14,7 +14,7 @@
 
 - 🏙  Professional interests include software engineering, network science, fintech, general democratization, architectural design & urban innovation. 
 
-- 🛹  Hobbies? Mostly movies, video games, and skateboarding these days. When my time is less restricted I play guitar, piano, kayak, and hike.
+- 🛹  Hobbies currently include: exploring the Bay Area, hiking, playing guitar & piano, wishing I had a cat!
 
 
 
