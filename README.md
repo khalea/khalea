@@ -5,7 +5,7 @@
 
 - 🖥 Working as a Data Engineer in beautiful San Francisco
 - ✏ Writing developer tutorials (open for work!)
-- 
+- ❓ Trying to figure out what to do with my personal website (lol)
 
 
 #### About
