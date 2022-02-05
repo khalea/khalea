@@ -1,19 +1,20 @@
-# 🎈  Khalea is looking for new challenges.  
+# 🎈  Khalea is chilling out.
 
 
 #### What Am I Up To?
 
 - 🖥 Working as an iOS Engineer @ Shopify in beautiful San Francisco
 - 👾 Learning Unreal Engine, C++, and Blender
+- ⚔️ Playing Sekiro!
 
 
 #### About
 
 - 🎓  B.S. Informatics with Computer Science at IU Bloomington - Class of 2020.
 
-- 🏙  Professional interests include software engineering, network science, fintech, general democratization, architectural design & urban innovation. 
+- 🏙  Professional interests include software engineering, network science, fintech, general democratization, architecture, contruction, & urban innovation. 
 
-- 🛹  Hobbies currently include: exploring the Bay Area, hiking, playing guitar & piano, wishing I had a cat!
+- 🛹  Hobbies include: longboarding, hiking, gaming, playing guitar & piano, wishing I had a cat!
 
 
 
