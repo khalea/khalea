@@ -3,8 +3,8 @@
 
 #### What Am I Up To?
 
-- 🖥 Working as an iOS Engineer @ Shopify in beautiful San Francisco
-- 👾 Learning Unreal Engine, C++, and Blender
+- 🖥 Working as an iOS Engineer @ Shopify in beautiful San Francisco.
+- 👾 Learning Unreal Engine, C++, and Blender.
 - ⚔️ Playing Sekiro!
 
 
