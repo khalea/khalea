@@ -3,12 +3,15 @@
 
 #### What Am I Up To?
 
-- 🖥 Working as an iOS Engineer @ Shopify in beautiful San Francisco.
-- 👾 Learning Unreal Engine, C++, and Blender.
-- ⚔️ Playing Sekiro!
+- 🌉 Based in beautiful San Francisco.
+- 👾 Working on Envelope - a web & iOS neobank focused on savings goals features, using the Column bank API. 
+- 🔎 Searching for a new full-time role. 
+- 🎶 Always working on/playing guitar, piano, DJing, and/or music production.
 
 
 #### About
+
+- 🖥 Former iOS Engineer @ Shopify (Jan 2022 - May 2023)
 
 - 🎓  B.S. Informatics with Computer Science at IU Bloomington - Class of 2020.
 
