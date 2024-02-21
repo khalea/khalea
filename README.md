@@ -15,7 +15,7 @@
 
 - 🎓  B.S. Informatics with Computer Science at IU Bloomington - Class of 2020.
 
-- 🏙  Professional interests include software engineering, network science, fintech, general democratization, architecture, contruction, & urban innovation. 
+- 🏙  Professional interests include product engineering (front+backend), web, iOS, macOS, and React Native development. 
 
 - 🛹  Hobbies include: longboarding, hiking, gaming, playing guitar & piano, wishing I had a cat!
 
