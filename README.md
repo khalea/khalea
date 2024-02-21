@@ -3,15 +3,15 @@
 
 #### What Am I Up To?
 
-- 🌉 Based in beautiful San Francisco.
-- 👾 Working on Envelope - a web & iOS neobank focused on savings goals features, using the Column bank API. 
-- 🔎 Searching for a new full-time role. 
+- 🗽 Based in NYC
+- 👾 Working on Auditorium - a private community chat & media space that anyone can spin up when traditional social media sites aren't enough.
+- 🔎 Passively searching for new software engineering roles. 
 - 🎶 Always working on/playing guitar, piano, DJing, and/or music production.
 
 
 #### About
 
-- 🖥 Former iOS Engineer @ Shopify (Jan 2022 - May 2023)
+- 🖥 Current SWE at Wells Fargo - Capital Markets Technology. Former iOS Engineer @ Shopify (Jan 2022 - May 2023).
 
 - 🎓  B.S. Informatics with Computer Science at IU Bloomington - Class of 2020.
 
