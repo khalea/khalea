@@ -3,15 +3,14 @@
 
 #### What Am I Up To?
 
-- 🗽 Based in NYC
-- 👾 Working on Auditorium - a private community chat & media space that anyone can spin up when traditional social media sites aren't enough.
+- 🗽 Based in NYC, working in Finance
 - 🔎 Passively searching for new software engineering roles. 
 - 🎶 Always working on/playing guitar, piano, DJing, and/or music production.
 
 
 #### About
 
-- 🖥 Current SWE at Wells Fargo - Capital Markets Technology. Former iOS Engineer @ Shopify (Jan 2022 - May 2023).
+- 🖥 Current SWE at Wells Fargo - Capital Markets Technology. Prev iOS Engineer @ Shopify, Data Engineering @ Capgemini.
 
 - 🎓  B.S. Informatics with Computer Science at IU Bloomington - Class of 2020.
 
